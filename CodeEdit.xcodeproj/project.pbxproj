@@ -238,6 +238,7 @@
 		B6EE988F27E8879A00CDD8AB /* InspectorSidebar.swift */ = {isa = PBXFileReference; indentWidth = 4; lastKnownFileType = sourcecode.swift; path = InspectorSidebar.swift; sourceTree = "<group>"; tabWidth = 4; };
 		B6EE989127E887C600CDD8AB /* InspectorSidebarToolbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspectorSidebarToolbar.swift; sourceTree = "<group>"; };
 		C66481B429986DC300E21FDC /* CodeEditCli */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = CodeEditCli; sourceTree = "<group>"; };
+		C6937BF72998D4860097B16D /* swift-package-manager */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "swift-package-manager"; path = "../swift-package-manager"; sourceTree = "<group>"; };
 		D7012EE727E757850001E1EF /* FindNavigator.swift */ = {isa = PBXFileReference; indentWidth = 4; lastKnownFileType = sourcecode.swift; path = FindNavigator.swift; sourceTree = "<group>"; tabWidth = 4; };
 		D7211D4227E066CE008F2ED7 /* Localized+Ex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Localized+Ex.swift"; sourceTree = "<group>"; };
 		D7211D4827E06BFE008F2ED7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -595,6 +596,7 @@
 			isa = PBXGroup;
 			children = (
 				C66481B429986DC300E21FDC /* CodeEditCli */,
+				C6937BF72998D4860097B16D /* swift-package-manager */,
 			);
 			name = Packages;
 			sourceTree = "<group>";
