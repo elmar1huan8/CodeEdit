@@ -1,23 +1,25 @@
 {
-  "pins" : [
-    {
-      "identity" : "codeeditkit",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/CodeEditApp/CodeEditKit",
-      "state" : {
-        "branch" : "main",
-        "revision" : "9f52e98e8e289011b05ea55a7ab458b9752ce206"
+  "object": {
+    "pins": [
+      {
+        "package": "CodeEditKit",
+        "repositoryURL": "https://github.com/CodeEditApp/CodeEditKit",
+        "state": {
+          "branch": "main",
+          "revision": "9f52e98e8e289011b05ea55a7ab458b9752ce206",
+          "version": null
+        }
+      },
+      {
+        "package": "CodeEditSymbols",
+        "repositoryURL": "https://github.com/CodeEditApp/CodeEditSymbols",
+        "state": {
+          "branch": "main",
+          "revision": "fd704f0590489c10f28376dea2317e1b0c801024",
+          "version": null
+        }
       }
-    },
-    {
-      "identity" : "codeeditsymbols",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/CodeEditApp/CodeEditSymbols",
-      "state" : {
-        "branch" : "main",
-        "revision" : "fd704f0590489c10f28376dea2317e1b0c801024"
-      }
-    }
-  ],
-  "version" : 2
+    ]
+  },
+  "version": 1
 }
